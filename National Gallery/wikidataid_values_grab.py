@@ -1,22 +1,3 @@
-# import csv
-
-# # Open the CSV file for reading
-# with open('flowers_project/NGA/NGA_QID_export.csv', 'r') as csv_file:
-#     # Create a CSV reader
-#     csv_reader = csv.reader(csv_file)
-
-#     # Iterate through rows
-#     for row in csv_reader:
-#         # Access a specific value using row and column indices
-#         value = row[12]  # Replace 1 with the desired column index (0-indexed)
-
-#         # Do something with the value
-#         print(value)
-
-
-
-
-
 import csv
 
 # Open the original CSV file for reading

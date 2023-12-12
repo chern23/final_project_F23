@@ -1,4 +1,4 @@
-# flowers_project
+# final_project_F23
 
 An exploration of flowers in art...
 

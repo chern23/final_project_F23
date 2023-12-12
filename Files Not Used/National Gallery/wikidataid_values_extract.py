@@ -1,7 +1,7 @@
 import csv
 
 # Open the original CSV file for reading
-with open('flowers_project/NGA/NGA_QID_export.csv', 'r') as csv_file:
+with open('final_project_F23/NGA/NGA_QID_export.csv', 'r') as csv_file:
     # Create a CSV reader
     csv_reader = csv.reader(csv_file)
 
